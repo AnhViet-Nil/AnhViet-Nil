@@ -4,12 +4,9 @@
 
 I'm a mobile developer. Some technologies i enjoy working with include <a href="https://swift.org">Swift</a>, <a href="https://reactnative.dev">React-Native</a>. I plan to learn more <a href="https://developer.android.com/kotlin">Kotlin</a> and <a href="https://flutter.dev">Flutter</a> in the future ☘
 
-## Find me around the web 🌎: <a href="https://github.com/AnhViet-Nil"><img align="left" width="150" height="150" src="https://github.com/AnhViet-Nil/AnhViet-Nil/blob/master/Avatar.png"></a>
+## Find me around the web 🌎: <a href="https://github.com/AnhViet-Nil"><img align="left" width="50" height="50" src="https://github.com/AnhViet-Nil/AnhViet-Nil/blob/master/Avatar.png"></a>
 
-   - Social network <a href="https://www.facebook.com/anhviet.nil/">Facebook</a>
-
-
-
+- Social network <a href="https://www.facebook.com/anhviet.nil/">Facebook</a>
 
 ## Sample project
 
