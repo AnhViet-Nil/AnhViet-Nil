@@ -10,10 +10,6 @@ I'm a mobile developer. Some technologies i enjoy working with include <a href="
 
 ## Sample project
 
-- App LibraryBook code React-Native class component:
-- App LibraryBook code React-Native function component:
-- App LibraryBook code Swift MVC:
-- App LibraryBook code Swift MVVM:
 
 <!--
 **AnhViet-Nil/AnhViet-Nil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
