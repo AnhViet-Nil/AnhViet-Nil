@@ -6,7 +6,7 @@ I'm a mobile developer. Some technologies i enjoy working with include <a href="
 
 ## Find me around the web 🌎: <a href="https://github.com/AnhViet-Nil"><img align="left" width="80" height="80" src="https://github.com/AnhViet-Nil/AnhViet-Nil/blob/master/Avatar.png"></a>
 
-- Social network <a href="https://www.facebook.com/anhviet.nil/">Facebook</a>
+- Social network <a href="https://www.facebook.com/share/1Cv9RS2q3R/?mibextid=wwXIfr">Facebook</a>
 
 ## Sample project
 
